@@ -1,0 +1,48 @@
+   # Here are some commands for the initial setup of git on windows 
+   1  curl -fsSL http://git.io/Famd | sh
+    2  subl ~/.bashrc
+    3  subl -w
+    4  echo $PATH
+   10  echo $EDITOR
+   12  subl ~/.bashrc
+   15  pwd
+   16  ls -al
+   17  ls *.bashrc
+   19  vi .bashrc 
+   20  ls -lrt .bashrc
+   21  subl ~/.bashrc
+   22  ls .bash*
+   23  ls .*
+ 
+ # here are some common git commands
+   24  git config --global user.name " Rich Green"
+   25  git config --global user.email "greener@uw.edu"
+   26  git -v
+   29  cd sea-w25-uge/
+   35  git --version
+   36  git staus
+   37  git status
+   38  git branch
+   40  git pull origin notes
+   41  git push origin notes
+
+   # here are some common linux commands
+   42  pwd
+   43  cd ..
+   44  pwd
+   45  top
+   46  cd
+   54  ls -lrt | more
+   55  ls | more
+   56  ls
+   58  ls -t
+   59  ls -lt
+   60  ls -t
+   65  ls -lrt
+   67  ls --help
+   70  ls -a
+   73  ls --h
+   77  ls
+   78  cd Katze_lab/
+   82  ls
+  108  history > moving_around.txt

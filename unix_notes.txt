@@ -10,9 +10,6 @@
    17  ls *.bashrc
    19  vi .bashrc 
    20  ls -lrt .bashrc
-   21  subl ~/.bashrc
-   22  ls .bash*
-   23  ls .*
  
  # here are some common git commands
    24  git config --global user.name " Rich Green"
